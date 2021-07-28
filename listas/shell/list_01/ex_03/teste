@@ -1,0 +1,88 @@
+dummy0: flags=195<UP,BROADCAST,RUNNING,NOARP>  mtu 1500
+/:/;/g
+        ether fa:17:db:12:a1:f2  txqueuelen 1000  (Ethernet)
+/:/;/g
+        RX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        RX errors 0  dropped 0  overruns 0  frame 0
+/:/;/g
+        TX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+/:/;/g
+
+/:/;/g
+dummy1: flags=195<UP,BROADCAST,RUNNING,NOARP>  mtu 1500
+/:/;/g
+        ether 5a:d6:60:c9:eb:1a  txqueuelen 1000  (Ethernet)
+/:/;/g
+        RX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        RX errors 0  dropped 0  overruns 0  frame 0
+/:/;/g
+        TX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+/:/;/g
+
+/:/;/g
+dummy2: flags=195<UP,BROADCAST,RUNNING,NOARP>  mtu 1500
+/:/;/g
+        ether 42:ee:80:b8:f7:d1  txqueuelen 1000  (Ethernet)
+/:/;/g
+        RX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        RX errors 0  dropped 0  overruns 0  frame 0
+/:/;/g
+        TX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+/:/;/g
+
+/:/;/g
+dummy3: flags=195<UP,BROADCAST,RUNNING,NOARP>  mtu 1500
+/:/;/g
+        ether 0e:20:aa:e6:e9:cf  txqueuelen 1000  (Ethernet)
+/:/;/g
+        RX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        RX errors 0  dropped 0  overruns 0  frame 0
+/:/;/g
+        TX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+/:/;/g
+
+/:/;/g
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+/:/;/g
+        inet 10.3.94.10  netmask 255.255.255.0  broadcast 10.3.94.255
+/:/;/g
+        ether 02:42:0a:03:5e:0a  txqueuelen 0  (Ethernet)
+/:/;/g
+        RX packets 11636  bytes 5699568 (5.4 MiB)
+/:/;/g
+        RX errors 0  dropped 0  overruns 0  frame 0
+/:/;/g
+        TX packets 10267  bytes 5883621 (5.6 MiB)
+/:/;/g
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+/:/;/g
+
+/:/;/g
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+/:/;/g
+        inet 127.0.0.1  netmask 255.0.0.0
+/:/;/g
+        loop  txqueuelen 1000  (Local Loopback)
+/:/;/g
+        RX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        RX errors 0  dropped 0  overruns 0  frame 0
+/:/;/g
+        TX packets 0  bytes 0 (0.0 B)
+/:/;/g
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+/:/;/g
+
+/:/;/g
